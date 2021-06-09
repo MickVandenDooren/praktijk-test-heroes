@@ -26,7 +26,9 @@ public class Energizer extends Hero{
 
     @Override
     public void useSuperPower() {
-        System.out.println("Charging... ,attacks enemy with charged superpowers");
+        System.out.println("Charging... ,attacks enemy with charged superpowers" +
+                "" +
+                "");
     }
 
 }
